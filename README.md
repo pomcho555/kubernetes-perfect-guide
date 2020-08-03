@@ -1,3 +1,9 @@
+# 廃止: Deprecated
+
+この master ブランチは廃止するため、[2nd branch](https://github.com/MasayaAoyama/kubernetes-perfect-guide/tree/2nd) および [1st branch](https://github.com/MasayaAoyama/kubernetes-perfect-guide/tree/1st)を参照してください。
+
+Please refer [2nd branch](https://github.com/MasayaAoyama/kubernetes-perfect-guide/tree/2nd) and [1st branch](https://github.com/MasayaAoyama/kubernetes-perfect-guide/tree/1st).
+
 # 『Kubernetes完全ガイド』 付録マニフェストのリポジトリ
 
 はじめまして。
